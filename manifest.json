@@ -2,8 +2,8 @@
     "short_name": "Twittor",
     "name": "Twittor de superhéroes",
     "start_url": "index.html",
-    "background_color": "#3498db",
-    "theme_color": "#3498db",
+    "background_color": "#f5700a",
+    "theme_color": "#f5700a",
     "display": "standole",
     "orientation": "portrait",
     "icons": [
